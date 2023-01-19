@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshal Kshirsagar
 - 🏫 Sophomore at MIT Manipal 
 - 👀 I’m interested in Machine Learning, DevOps and FullStack WebDev
-- 🌱 I’m currently learning OpenCV 
+- 🌱 I’m currently learning Neural Networks 
 - 📫 Mail me @ hkshir1806@gmail.com
 
 <!---
