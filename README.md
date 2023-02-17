@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshal Kshirsagar
 - 🏫 Sophomore at MIT Manipal 
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Deep Learning
-- 🌱 I’m currently learning Neural Networks 
+- 🌱 I’m currently learning Natural Language Processing
 - 📫 Mail me @ hkshir1806@gmail.com
 
 <!---
