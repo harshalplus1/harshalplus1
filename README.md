@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshal P. Kshirsagar</h1>
-<h3 align="left">An AI/ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalplus1&label=Profile%20views&color=0e75b6&style=flat" alt="harshalplus1" /> </p>
+
+<h3 align="left">An AI/ML enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Natural language Processing, Speech-To-text**
 
