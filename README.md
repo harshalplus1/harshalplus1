@@ -2,7 +2,7 @@
 - 🏫 3rd year student at MIT Manipal 
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Deep Learning
 - 🌱 I’m currently learning Natural Language Processing
-- 💼 Intern at Samsung R&D Institute @Bangalore
+- 💼 Research Project Intern at Samsung R&D Institute @Bangalore
 - 📫 Mail me @ hkshir1806@gmail.com
 
 <!---
